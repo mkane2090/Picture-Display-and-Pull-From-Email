@@ -3,7 +3,7 @@ The operating systems this program has been run on include:
   - Raspbian
   - Ubuntu
 
-This program is run on Python 3.9.2
+This program was written for Python 3.9.2
 
 This program requires the following python libraries:
   - time
@@ -15,3 +15,5 @@ This program requires the following python libraries:
   - os
   - math
   - random
+
+This program requires an Images folder located within your working directory.
